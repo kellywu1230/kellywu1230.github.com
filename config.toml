@@ -1,0 +1,4 @@
+baseURL = "http://kellywu1230.github.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
